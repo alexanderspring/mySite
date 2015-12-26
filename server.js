@@ -8,7 +8,7 @@ app.use(express.static(__dirname));
 
 // landing page
 app.get('/', function (request, response) {
-  response.sendFile(__dirname + "/index.js");
+  response.sendFile(__dirname + "/index.html");
 });
 
 // // listen page
