@@ -181,7 +181,7 @@
 			.image.full
 			{
 				display: block;
-				width: 100%;
+				width: auto;
 				margin-bottom: 2em;
 			}
 			
