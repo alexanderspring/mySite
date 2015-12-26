@@ -11,7 +11,7 @@
     "body-parser": "latest",
     "validator": "latest",
   },
-   "repository": {
+  "repository": {
     "type": "git",
     "url": "git+https://github.com/alexanderspring/mySite.git"
   },
